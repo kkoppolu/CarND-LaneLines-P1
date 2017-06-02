@@ -31,7 +31,7 @@ All that said, please be concise!  We're not looking for you to write a book her
 
 You're not required to use markdown for your writeup.  If you use another method please just submit a pdf of your writeup. Here is a link to a [writeup template file](https://github.com/udacity/CarND-LaneLines-P1/blob/master/writeup_template.md). 
 
-**Here is the [link](https://github.com/kkoppolu/CarND-LaneLines-P1/REFLECTIONS.md) to the writeup on project reflections.**
+**Here is the [link](https://github.com/kkoppolu/CarND-LaneLines-P1/blob/master/REFLECTIONS.md) to the writeup on project reflections.**
 
 
 The Project
