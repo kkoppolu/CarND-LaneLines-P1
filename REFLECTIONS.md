@@ -54,4 +54,4 @@ The given helper function `weighted_image` is used for combining the original im
 - Images files with lane annotations are in `test_images_output`
 - Video files with lane annotations are in `test_videos_output`
 - Output directories `test_images_output` and `test_videos_output` are created if they do not exist by the corresponding methods of interest.
-- The solutions breaks down when executed on the challenge problem. This is due to the shortcomings already mentioned in the pipeline in addition to other image features closely resmbling the lanes on the road.
+- The solutions breaks down when executed on the challenge problem. This is due to the shortcomings already mentioned in the pipeline in addition to other image features closely resembling the lanes on the road. Bright lighting and shadows on the road for instance throw off the detection pipeline. Normalization of the image color space could be an option in making the detection better.
